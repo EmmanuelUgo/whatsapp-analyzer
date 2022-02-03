@@ -1,0 +1,10 @@
+library(shiny)
+library(shiny.semantic)
+library(semantic.dashboard)
+library(rwhatsapp)
+library(tidyverse)
+library(wordcloud)
+library(tidytext)
+library(plotly)
+
+theme_set(hrbrthemes::theme_tinyhand())
